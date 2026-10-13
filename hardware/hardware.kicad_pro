@@ -665,13 +665,13 @@
         "uuid": "e2da53de-8453-4e88-9dc7-98056e7ae56e"
       }
     ],
-    "used_designators": "#PWR1-13,J1-2,R1,SW1-2,U1-2",
+    "used_designators": "#PWR1-17,J1-3,R1,SW1-2,U1-3",
     "variants": []
   },
   "sheets": [
     [
       "e2da53de-8453-4e88-9dc7-98056e7ae56e",
-      "pids"
+      "hardware"
     ]
   ],
   "text_variables": {},
