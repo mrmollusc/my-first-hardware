@@ -2629,25 +2629,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "what to add?"
-		(exclude_from_sim no)
-		(at 128.778 104.394 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "610ffcac-d971-497c-8e65-0931ea21aa63")
-	)
-	(bus_entry
-		(at 119.38 29.21)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48f6a310-7bec-4ca1-b0d0-5a27b8123cbd")
-	)
 	(wire
 		(pts
 			(xy 194.31 68.58) (xy 205.74 68.58)
