@@ -1,11 +1,28 @@
 
-# my-first-hardware
+# my-first-hardware (Heartbie)
 
-![Heartbie for halflife week 1](./files/media/heartbie-top.png)
+![Heartbie for Half Life Week 1](./files/media/heartbie-top.png)
 
-Heartbie companion with temperature sensor, screen, XIAO ESP32 C3 processor, MAX audio chip and outemu key switches
+The heartbie device is a small companion toy that is a spin-off of the [starbie](https://github.com/SharKingStudios/Starbie) starter project provided by [Half Life](https://halflife.hackclub.com/) for the week 1 starter project. The heartbie has the components of the starbie; namely microcontroller, OLED display which is for visual response to the heartbie's environment, environment sensor, movement sensor and keys for user interaction. However, the heartbie features an additional speaker and also customizes the keys and PCB layout.
 
-# Grant-funded ($30 tier 1)
+## Layout
+![Schematic](./files/media/heartbie-schem.png)
+![PCB](./files/media/heartbie-pcb.png)
+
+## Features
+
+- **Firmware:** Arduino C
+- **PCB:** JLCPCB service
+- **Microcontroller:** XIAO ESP32 C3 Mini
+- **Display:** 128x64 OLED Display
+- **Environment Sensor:** DHT 11
+- **Movement Sensor:** MPU 6050
+- **Key Switches:** Outemu Silent Switches
+- **Key Caps:** Generic Transparent
+- **Speaker:** Generic 36mm
+- **Speaker Chip:** MAX98357A
+
+## Grant-funded ($30 tier 1)
 
 | Item | Purpose | Qty | Unit (USD) | Total (USD) | Link |
 |---|---|---|---|---|---|
